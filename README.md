@@ -1,2 +1,1 @@
-# timesince
-more flexible "time ago"
+A simple and flexible date time to relative time converting library
